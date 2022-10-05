@@ -1,6 +1,6 @@
 # 🎃🔥 HacktoberFest2022-Newbie  ✔
 
-In this Repository you can contribute projects related to any technology e.g python,Js,Reactjs,andoid app,html/css , any interview materials ,
+In this Repository you can contribute projects related to any technology e.g python,R,Js,Reactjs,andoid app,html/css , any interview materials ,
 learning resources, etc.
 
 Every Pr will be checked carefully and will be accepted if it not falls under spam or copy.
