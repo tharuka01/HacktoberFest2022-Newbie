@@ -27,18 +27,21 @@ Click below link to register :
 
 [https://hacktoberfest.com/](https://hacktoberfest.com/)
 
-## How to contribute to this projects ✔
+## Contribution Guidelines ✔
 
-Here are 2 quick and painless ways to contribute to this project:
+Here are 3 quick and painless ways to contribute to this project:
 
 * Create an Issue highlighting your Projects or your contribution and it will be assigned.
 * Create a PR by following all the rules and it will be checked and accepted immediately
-* Add your name to the `CONTRIBUTORS.md` file
+* Make sure you ⭐ this Repository.
 
-## For Newbies ✔
+
+## Contribution Guidelines For Newbies ✔
 
 * Create an Issue highlighting your Projects ,Patterns,or any algorithm and it will be assigned.
 * Create a PR by following all the rules and it will be checked and accepted immediately.
+* Make sure you ⭐ this Repo .
+
 
 Choose both, make a pull request for your work and wait for it to be merged!
 
